@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# *Trivial Twitter*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Trivial Twitter** is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
